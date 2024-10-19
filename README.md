@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-jas91&show_icons=true&locale=en" alt="mr-jas91" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-jas91&" alt="mr-jas91" /></p>
+<h3 align="left">Badge 🏆:</h3>
+p alin="left"><img src="https://github-profile-trophy.vercel.app/?username=mr-jas91&theme=matrix" alt="badge"/></p>
